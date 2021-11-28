@@ -61,7 +61,7 @@ const List = () => {
   return (
     <div style={{ margin: "10px" }}>
       <div style={{ textAlign: "center" }}>
-        <div style={{}}>
+        <div>
           <input
             type="checkbox"
             id="filter"
